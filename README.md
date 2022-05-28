@@ -6,6 +6,12 @@ A program that calculates the theoretical PC rate as accurately as possible in T
 
 ---
 
+※8段パフェにしか対応していません
+
+* Only compatible with 8-line PC.
+
+---
+
 「.exe」が末尾についているファイルをダウンロードしてください
 
 Please download the file with ".exe" at the end.
