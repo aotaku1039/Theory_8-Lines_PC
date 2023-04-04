@@ -1,26 +1,8 @@
-# Theory_PC
+# Theory_8-Lines_PC
 
-テトリスにおいて、理論パフェ率をなるべく正確に計算するプログラム
+テトリスにおいて、理論8段パフェ率をなるべく正確に計算するプログラム
 
-A program that calculates the theoretical PC rate as accurately as possible in Tetris.
-
----
-
-※8段パフェにしか対応していません
-
-※Only compatible with 8-line PC.
-
----
-
-「.exe」が末尾についているファイルをダウンロードしてください
-
-Please download the file with ".exe" at the end.
-
----
-
-番号が大きいものほど新しいです　最も番号の大きいexeファイルをダウンロードしてください
-
-The higher the number, the newer it is. Please download the exe file with the highest number.
+A program that calculates the theoretical 8-Lines PC rate as accurately as possible in Tetris.
 
 ---
 
